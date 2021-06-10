@@ -1,0 +1,6 @@
+A
+Summary: keeps all the original folders, most videos are stripped out. If there is a music video, it is included separately
+B
+Summary: same as A, but no main music folder, only the media less version (without PDF’s, WLMP’s, INI’s, and other things that could cause VLC to crash)
+C
+Summary: same as B, but with no sound effects folder. As slim as I can currently get it.
